@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech graduate** in **Electron
 ## 🛠 Skills
 - **Languages**: Python, Java, SQL
 - **Tools & Frameworks**: 
-  - Python Libraries: NumPy, Pandas, Matplotlib, TensorFlow, Flask
-  - Java: Spring Boot, Hibernate
-  - SQL: MySQL, PostgreSQL
+  - Python Libraries: NumPy, Pandas, Matplotlib
+  - Java: Spring Boot
+  - SQL: MySQL
 - **Version Control**: Git, GitHub
 
 <div align="left">
@@ -21,11 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech graduate** in **Electron
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
