@@ -25,20 +25,20 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech graduate** in **Electron
 
 Here are a few of the projects I've worked on:
 
-1. **[Project Name](link-to-project)**  
-   *Brief description of the project, what technologies were used, and what it accomplishes.*
+1. **[Python Web Scraper](https://github.com/Pavan-8790/Python-Web-Scraper)**  
+   A web scraper built using Python and BeautifulSoup to extract data from websites for analysis.
 
-   ![Project Image](https://via.placeholder.com/400x200)
+   ![Python Web Scraper](https://via.placeholder.com/400x200)
 
-2. **[Project Name](link-to-project)**  
-   *Brief description of the project, what technologies were used, and what it accomplishes.*
+2. **[Java Inventory Management System](https://github.com/Pavan-8790/Java-Inventory-Management-System)**  
+   A Java-based inventory management system designed to track products and sales using MySQL database.
 
-   ![Project Image](https://via.placeholder.com/400x200)
+   ![Java Inventory System](https://via.placeholder.com/400x200)
 
-3. **[Project Name](link-to-project)**  
-   *Brief description of the project, what technologies were used, and what it accomplishes.*
+3. **[SQL Database for E-commerce](https://github.com/Pavan-8790/SQL-Database-for-E-commerce)**  
+   A SQL-based database design for an e-commerce platform, focusing on product management, customer orders, and sales data.
 
-   ![Project Image](https://via.placeholder.com/400x200)
+   ![SQL Database for E-commerce](https://via.placeholder.com/400x200)
 
 ## 📫 How to Reach Me
 - 📧 Email: [pavanyenuganti4@gmail.com](mailto:pavanyenuganti4@gmail.com)
@@ -68,4 +68,5 @@ Feel free to check out my projects, and don't hesitate to reach out if you'd lik
 ---
 
 *Last updated: March 2025*
+
 
