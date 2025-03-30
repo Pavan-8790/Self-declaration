@@ -15,30 +15,20 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech graduate** in **Electron
   - Java: Spring Boot, Hibernate
   - SQL: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
-- **Others**: Data Analysis, Algorithms, Embedded Systems
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-8790&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 💻 Projects
-
-Here are a few of the projects I've worked on:
-
-1. **[Python Web Scraper](https://github.com/Pavan-8790/Python-Web-Scraper)**  
-   A web scraper built using Python and BeautifulSoup to extract data from websites for analysis.
-
-   ![Python Web Scraper](https://via.placeholder.com/400x200)
-
-2. **[Java Inventory Management System](https://github.com/Pavan-8790/Java-Inventory-Management-System)**  
-   A Java-based inventory management system designed to track products and sales using MySQL database.
-
-   ![Java Inventory System](https://via.placeholder.com/400x200)
-
-3. **[SQL Database for E-commerce](https://github.com/Pavan-8790/SQL-Database-for-E-commerce)**  
-   A SQL-based database design for an e-commerce platform, focusing on product management, customer orders, and sales data.
-
-   ![SQL Database for E-commerce](https://via.placeholder.com/400x200)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
 ## 📫 How to Reach Me
 - 📧 Email: [pavanyenuganti4@gmail.com](mailto:pavanyenuganti4@gmail.com)
@@ -63,10 +53,9 @@ When I'm not coding, I enjoy tinkering with **hardware projects**, **solving puz
 ---
 
 ### Thanks for stopping by! 🌍  
-Feel free to check out my projects, and don't hesitate to reach out if you'd like to collaborate or chat! 🙌
+Feel free to check out my repositories, contribute to open-source projects I am working on, and reach out if you'd like to collaborate or chat! 🙌
 
 ---
 
-*Last updated: March 2025*
-
+*Last updated: March 2024*
 
